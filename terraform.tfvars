@@ -1,0 +1,16 @@
+prefix       = "veekshitham"
+location     = "canadacentral"
+v_add        = ["10.0.0.0/24"]
+s1_add       = ["10.0.0.0/26"]
+s2_add       = ["10.0.0.64/26"]
+plan_kind    = "Linux"
+plan_tier    = "Standard"
+plan_size    = "S1"
+server_login = "veekshitha-m"
+server_pass  = "veeksh@123"
+sql_pa       = "Dink@123"
+asn          = "veekshitham-asp"
+app_service_name="web-app-v"
+sql_server_name = "veekshitham-sql"
+res_grp_name = "veekshitham-rg"
+keyvault_name = "veekshitham-kv"
